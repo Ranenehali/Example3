@@ -11,7 +11,7 @@
         enable: true,
       },
        serviceWorkerParam: { scope: "/Example3/" },
-            serviceWorkerPath: "Example3/OneSignalSDKWorker.js",
+            serviceWorkerPath: "/Example3/OneSignalSDKWorker.js",
     });
   });
 </script>
